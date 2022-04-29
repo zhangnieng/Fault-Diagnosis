@@ -1,4 +1,3 @@
-Tennessee Eastman flowchart
 ### TE过程流程图
 #### 下册含有注释版本
 ![image](https://github.com/zhangnieng/Fault-Diagnosis/blob/FaultDiagnosis/Tennessee%20Eastman/TE-%E4%B8%8B%E6%A0%87-1.emf)
