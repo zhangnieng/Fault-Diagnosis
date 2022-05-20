@@ -5,7 +5,7 @@
 #### TE-分块变量
 ![Alt text](https://github.com/zhangnieng/Fault-Diagnosis/blob/FaultDiagnosis/Tennessee%20Eastman/TE-%E5%88%86%E5%9D%97%E5%8F%98%E9%87%8F.png)
 #### TE-分块新版
-![Alt text](https://github.com/zhangnieng/Fault-Diagnosis/blob/FaultDiagnosis/Tennessee%20Eastman/TE-%E5%88%86%E5%9D%97%E6%96%B0%E7%89%88.png))
+![Alt text](https://github.com/zhangnieng/Fault-Diagnosis/blob/FaultDiagnosis/Tennessee%20Eastman/TE-%E5%88%86%E5%9D%97%E6%96%B0%E7%89%88.png)
 #### TE-分块颜色
 ![Alt text](https://github.com/zhangnieng/Fault-Diagnosis/blob/FaultDiagnosis/Tennessee%20Eastman/TE-%E5%88%86%E5%9D%97%E9%A2%9C%E8%89%B2.png)
 #### TE-变量新版-中文
